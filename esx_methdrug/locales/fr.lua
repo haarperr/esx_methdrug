@@ -1,8 +1,9 @@
+--BY BNJ-- Deldu et 𝑯𝒐𝒎𝒎𝒆-𝒆𝒇𝒇𝒊𝒄𝒂𝒔𝒆
 Locales['fr'] = {
 	['police_methylamine']				= 'Tiens donc, il y a comme une odeur de ~o~Méthylamine~s~ dans l\'air...',
 	['police_methamphetamine']		= 'Tiens donc, il y a comme une odeur de ~o~Méthamphétamine~s~ dans l\'air...',
 	['need_vehicle']							= 'Dis donc, ça sent bizarre ici... Un fan de Breaking Bad dirait que ça sent la ~o~Méthylamine~s~',
-	['bad_vehicle']								= '~r~Ce véhicule ne va convient pas... Il vous faut un semblant de laboratoire(Journey) !~s~',
+	['bad_vehicle']								= '~r~Ce véhicule ne vous convient pas... Il vous faut un semblant de laboratoire(Journey) !~s~',
 	['full_vehicle']							= '~g~Vous avez fini de remplir votre véhicule. Il est temps de traiter la ~s~~o~Méthylamine !~s~',
 	['full_vehicle_2']						= 'Attention aux ~o~dégagements gazeux~s~, enfilez votre ~b~tenue~s~ et trouvez un endroit à l\'abri des regards !',
 	['full_vehicle_3']						= 'Lorsque vous serez prêts, vous pourrez commencer à jouer au chimiste en appuyant sur ~h~~g~K~s~',

@@ -1,4 +1,4 @@
---BY BNJ-- 𝑯𝒐𝒎𝒎𝒆-𝒆𝒇𝒇𝒊𝒄𝒂𝒔𝒆
+--BY BNJ-- Deldu et 𝑯𝒐𝒎𝒎𝒆-𝒆𝒇𝒇𝒊𝒄𝒂𝒔𝒆
 Config								= {}
 Config.Locale 				= 'fr'
 Config.DrawDistance		= 10.0
